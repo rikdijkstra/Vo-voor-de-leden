@@ -6,6 +6,6 @@ class Main {
     public static void Main(String [] args)
     {
         LoginActivity a = new LoginActivity();
-        System.out.println("probleem");
+
     }
 }
